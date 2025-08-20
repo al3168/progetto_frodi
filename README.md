@@ -63,3 +63,22 @@ Creazione README completo con risultati e osservazioni finali
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
 Jupyter Notebook
+🚧 Work in Progress
+
+Le prossime fasi in programma:
+
+Analisi delle correlazioni tra le variabili
+
+Preprocessing (scaling, bilanciamento, train/test split)
+
+Addestramento modelli (es. Logistic Regression, Random Forest)
+
+Valutazione con metriche di classificazione
+
+Creazione README completo con risultati e osservazioni finali
+
+🛠️ Tecnologie utilizzate
+
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
+Jupyter Notebook
